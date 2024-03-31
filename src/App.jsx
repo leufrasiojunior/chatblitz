@@ -1,9 +1,11 @@
 
+import CreateInstance from './pages/instance/crate/CreateInstance/';
+
 function App() {
 
   return (
     <>
-      <p>Teste</p>
+      <CreateInstance/>
     </>
   )
 }

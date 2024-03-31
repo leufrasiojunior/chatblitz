@@ -1,8 +1,36 @@
-# React + Vite
+# ChatBlitz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto Frontend para a EvolutionAPI ([Link Aqui](https://github.com/EvolutionAPI/evolution-api))
 
-Currently, two official plugins are available:
+O projeto é inicial e de um estudante de programação que decidiu estudar logo com um projeto grande!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Segue o Todo do projeto:
+
+- Página de Login
+- Criar instâncias
+-
+
+## ADMIN
+
+- Listar Instancias
+- Deletar Instâncias
+- Criar instâncias
+
+## User:
+
+- Reiniciar sua Instância
+- Conectar sua instancia
+- Status da Conexão
+
+## Todos
+
+- Recuperar e Allterar as configurações da instancia
+
+## Tecnologias
+
+O projeto está sendo desenvolvido com:
+
+- Rect
+- Vite
+- Axios
+- Framework CSS ainda a ser definido
