@@ -8,7 +8,6 @@ Segue o Todo do projeto:
 
 - Página de Login
 - Criar instâncias
--
 
 ## ADMIN
 
